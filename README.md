@@ -7,7 +7,7 @@
 
 - Tic-Tac-Toe using React JS [TicTacToe Game](https://tic-tac-toe-game-using-react-wheat.vercel.app)
 
-- 📝 I regularly write articles on [https://www.digitalocean.com/blog](https://www.digitalocean.com/blog)
+- 📝 I regularly read articles on [https://www.digitalocean.com/blog](https://www.digitalocean.com/blog)
 
 - 📫 How to reach me **anshtripathi2022@vitbhopal.ac.in**
 
