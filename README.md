@@ -3,9 +3,15 @@
 
 - 🌱 I’m currently learning **HTML , CSS , REACTJS , NODEJS**
 
+- My restaurant website [SpicySpoon](https://spicyspoon.vercel.app)
+
+- Tic-Tac-Toe using React JS [TicTacToe Game](https://tic-tac-toe-game-using-react-wheat.vercel.app)
+
 - 📝 I regularly write articles on [https://www.digitalocean.com/blog](https://www.digitalocean.com/blog)
 
 - 📫 How to reach me **anshtripathi2022@vitbhopal.ac.in**
+
+- ⚡ Fun fact **I love my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
