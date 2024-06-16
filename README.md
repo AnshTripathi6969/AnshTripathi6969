@@ -7,6 +7,8 @@
 
 - Tic-Tac-Toe using React JS [TicTacToe Game](https://tic-tac-toe-game-using-react-wheat.vercel.app)
 
+- OCR Image to Text Convertor  [OCR-IMAGE-TO-TEXT](https://github.com/AnshTripathi6969/OCR-Image-To-Text)
+
 - 📝 I regularly read articles on [https://www.digitalocean.com/blog](https://www.digitalocean.com/blog)
 
 - 📫 How to reach me **anshtripathi2022@vitbhopal.ac.in**
