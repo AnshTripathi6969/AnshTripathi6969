@@ -67,7 +67,7 @@
   <a href="https://3-d-gaming-website-eta.vercel.app" target="_blank"></a>
 </p>
 <p align="center">
-  <a href="https://3-d-gaming-website-eta.vercel.app" target="_blank">🌐 Live Demo</a>  |  Three.js • React
+  <a href="https://3-d-gaming-website-eta.vercel.app" target="_blank">🌐 Live Demo</a>  |  FRAMER MOTION • Reactjs • Tailwind CSS • Sketchfab • Vite 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="100" />
@@ -89,7 +89,7 @@
   <a href="https://spicyspoon.vercel.app" target="_blank"></a>
 </p>
 <p align="center">
-  <a href="https://spicyspoon.vercel.app" target="_blank">🌐 Live Demo</a>  |  Next.js • Tailwind
+  <a href="https://spicyspoon.vercel.app" target="_blank">🌐 Live Demo</a>  |  REACTJS
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif" height="100" />
@@ -100,7 +100,7 @@
   <a href="https://personal-portfolio-theta-ebon.vercel.app" target="_blank"></a>
 </p>
 <p align="center">
-  <a href="https://personal-portfolio-theta-ebon.vercel.app" target="_blank">🌐 Live Demo</a>  |  Framer Motion • Vite • Tailwind
+  <a href="https://personal-portfolio-theta-ebon.vercel.app" target="_blank">🌐 Live Demo</a>  |  HTML • CSS • JAVASCRIPT
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="100" />
