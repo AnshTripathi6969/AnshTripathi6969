@@ -6,7 +6,7 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#f06292">Ansh Tripathi</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <strong>🚀 Full Stack Developer&nbsp;|&nbsp;🎓 CS @ VIT Bhopal&nbsp;|&nbsp;☁️ Cloud Enthusiast</strong>
+  <strong>🚀 Full Stack Developer&nbsp;|&nbsp;🎓 CS @ VIT Bhopal&nbsp;|&nbsp;☁️ Cloud and Cyber Enthusiast</strong>
 </p>
 
 ---
