@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 4rd-year **B.Tech CSE (Cloud Computing)** @ VIT Bhopal  
+- 🎓 4th-year **B.Tech CSE (Cloud Computing)** @ VIT Bhopal  
 - 🧠 Grinding **LeetCode** & shipping projects  
 - 💼 **Former Application Security Intern @ Times Internet**  
 - 🌐 Exploring DevOps, AI SaaS & distributed systems  
