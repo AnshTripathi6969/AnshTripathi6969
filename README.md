@@ -69,9 +69,6 @@
 <p align="center">
   <a href="https://3-d-gaming-website-eta.vercel.app" target="_blank">🌐 Live Demo</a>  |  FRAMER MOTION • Reactjs • Tailwind CSS • Sketchfab • Vite 
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="100" />
-</p>
 
 ### 🛡️ React Admin Dashboard
 <p align="center">
@@ -79,9 +76,6 @@
 </p>
 <p align="center">
   <a href="https://react-admin-dashboard-mu-henna.vercel.app" target="_blank">🌐 Live Demo</a>  |  React • TypeScript • Recharts
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" height="100" />
 </p>
 
 ### 🍝 SpicySpoon Restaurant Site
@@ -91,9 +85,6 @@
 <p align="center">
   <a href="https://spicyspoon.vercel.app" target="_blank">🌐 Live Demo</a>  |  REACTJS
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif" height="100" />
-</p>
 
 ### 🚀 Personal Portfolio
 <p align="center">
@@ -101,9 +92,6 @@
 </p>
 <p align="center">
   <a href="https://personal-portfolio-theta-ebon.vercel.app" target="_blank">🌐 Live Demo</a>  |  HTML • CSS • JAVASCRIPT
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="100" />
 </p>
 
 ---
