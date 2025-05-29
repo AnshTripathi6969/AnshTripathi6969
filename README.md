@@ -70,6 +70,14 @@
   <a href="https://3-d-gaming-website-eta.vercel.app" target="_blank">🌐 Live Demo</a>  |  FRAMER MOTION • Reactjs • Tailwind CSS • Sketchfab • Vite 
 </p>
 
+### 🩺 Kidney-CT-Scan-Classification
+<p align="center">
+  <a href="https://github.com/AnshTripathi6969/Kidney-CT-Scan-Classification/blob/main/Kidney_Act.ipynb" target="_blank"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AnshTripathi6969/Kidney-CT-Scan-Classification/blob/main/Kidney_Act.ipynb" target="_blank">🌐 Live Demo</a>  |  TensorFlow/Keras • OpenCV  • Matplotlib/Seaborn • Pandas 
+</p>
+
 ### 🛡️ React Admin Dashboard
 <p align="center">
   <a href="https://react-admin-dashboard-mu-henna.vercel.app" target="_blank"></a>
@@ -118,10 +126,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Cool Ending GIF" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Gradient Line" />
