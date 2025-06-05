@@ -60,50 +60,6 @@
 
 ---
 
-## 🔭 Current Projects
-
-### 🎮 3D Gaming Website
-<p align="center">
-  <a href="https://3-d-gaming-website-eta.vercel.app" target="_blank"></a>
-</p>
-<p align="center">
-  <a href="https://3-d-gaming-website-eta.vercel.app" target="_blank">🌐 Live Demo</a>  |  FRAMER MOTION • Reactjs • Tailwind CSS • Sketchfab • Vite 
-</p>
-
-### 🩺 Kidney-CT-Scan-Classification
-<p align="center">
-  <a href="https://github.com/AnshTripathi6969/Kidney-CT-Scan-Classification/blob/main/Kidney_Act.ipynb" target="_blank"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/AnshTripathi6969/Kidney-CT-Scan-Classification/blob/main/Kidney_Act.ipynb" target="_blank">🌐 Live Demo</a>  |  TensorFlow/Keras • OpenCV  • Matplotlib/Seaborn • Pandas 
-</p>
-
-### 🛡️ React Admin Dashboard
-<p align="center">
-  <a href="https://react-admin-dashboard-mu-henna.vercel.app" target="_blank"></a>
-</p>
-<p align="center">
-  <a href="https://react-admin-dashboard-mu-henna.vercel.app" target="_blank">🌐 Live Demo</a>  |  React • TypeScript • Recharts
-</p>
-
-### 🍝 SpicySpoon Restaurant Site
-<p align="center">
-  <a href="https://spicyspoon.vercel.app" target="_blank"></a>
-</p>
-<p align="center">
-  <a href="https://spicyspoon.vercel.app" target="_blank">🌐 Live Demo</a>  |  REACTJS
-</p>
-
-### 🚀 Personal Portfolio
-<p align="center">
-  <a href="https://personal-portfolio-theta-ebon.vercel.app" target="_blank"></a>
-</p>
-<p align="center">
-  <a href="https://personal-portfolio-theta-ebon.vercel.app" target="_blank">🌐 Live Demo</a>  |  HTML • CSS • JAVASCRIPT
-</p>
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnshTripathi6969&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180"/>
