@@ -1,6 +1,6 @@
 <!-- 🖼️ Top Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Welcome Banner" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2ODA0ODgsIm5iZiI6MTc2NjY4MDE4OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI1VDE2Mjk0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2OTFmODFkZTNlMGQ4MmRhNGQ5YThjMTRmMDk4ZGU0ZjM4NjRhMGVkZTA0MjJjMDFkNTYxZjA4NDUzMjU0ZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JaOQ8iVoq5s4Yb-AHjX78wf5G5n04k3vR9jly94gHnM" alt="Welcome Banner" />
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#f06292">Ansh Tripathi</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
